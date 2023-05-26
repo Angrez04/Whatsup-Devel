@@ -1,0 +1,8 @@
+Project: Whatsup
+Author: Angrez04
+
+Contents: 
+1. Profile page
+2. Chat screen code
+3. Last seen code
+4. Attachment(Image, Backend files)
