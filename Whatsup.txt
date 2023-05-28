@@ -7,3 +7,4 @@ Contents:
 3. Attachment(Image, Backend files)
 4. Add Video call feature
 5. Add Audio call feature
+6. Eye candy animations code
